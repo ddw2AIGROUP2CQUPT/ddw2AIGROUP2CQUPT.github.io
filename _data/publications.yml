@@ -19,7 +19,7 @@ main:
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
    
   - title: "HumanVLM: Foundation for Human-Scene Vision-Language Model"
     authors: Dawei Dai, Long Xu, Yutang Li et al.
