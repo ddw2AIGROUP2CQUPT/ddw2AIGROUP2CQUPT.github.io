@@ -12,12 +12,8 @@ A Research group specializing in Computer science at Chongqing University of Pos
 - **大型视觉-语言模型** 
 - **多模态表示学习** 
 - **生成式AI**
-
-
+  
 {% include_relative _includes/services.md %}
-
-
-
 ## Publications
 ​**期刊论文**​
 1. ​**Dawei Dai**, Long Xu, Yutang Li. et al. Humanvlm: Foundation for human-scene vision-language model. *Journal of Information Fusion*, 2024 (IF=14.8，中科院一区TOP)  [pdf](https://arxiv.org/pdf/2411.03034) ~[code](https://github.com/ddw2AIGROUP2CQUPT)
