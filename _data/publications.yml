@@ -7,7 +7,6 @@ main:
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-   
     notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
@@ -24,19 +23,19 @@ main:
   - title: "HumanVLM: Foundation for Human-Scene Vision-Language Model"
     authors: Dawei Dai, Long Xu, Yutang Li et al.
     conference: Journal of Information Fusion
-    year: 2024
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=14.8）
   
   - title: An Adaptive Multi-Granularity Graph Representation of Image via Granular-Ball Computing
     authors: Dawei Dai, Fan Chen, Shuyin Xia et al.
     conference: IEEE Transactions on Image Processing
-    year: 2025
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=10.8）
   
   - title: "PathologyVLM: A Large Vision-Language Model for Pathology Image Understanding"
     authors: Dw Dai, Yuanhui Zhang, Qianlan Yang, Long Xu, Xiaojing Shen, Shuying Xia, Guoyin Wang
     conference: Artificial Intelligence Review
-    year: 2025
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=10.7）
   
   - title: Vision-Language Joint Representation Learning for Sketch Less Facial Image Retrieval
@@ -46,45 +45,45 @@ main:
     notes: 中科院一区TOP（IF=14.8）
   
   - title: "BTSC: Binary Tree Structure Convolution Layers for Building Interpretable Decision-Making Deep CNN"
-    authors: Wang Y, Dw Dai* (通讯), Liu D et al.
+    authors: Wang Y, <strong>Dw Dai*</strong>, Liu D et al.
     conference: CAAI Transactions on Intelligence Technology
-    year: 2024
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=8.4）
     
   - title: "Prior Semantic-Embedding Representation Learning for On-the-Fly FG-SBIR"
-    authors: Y Liu, Dw Dai* (通讯), K Zou et al.
+    authors: Y Liu, <strong>Dw Dai*</strong>, K Zou et al.
     conference: Expert Systems with Applications
-    year: 2024
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=7.5）
     
   - title: "LGRL: Local-Global Representation Learning for On-the-Fly FG-SBIR"
     authors: Dw Dai, Liu Y, Li Y et al.
     conference: IEEE Transactions on Big Data
-    year: 2024
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院二区（IF=7.5）
   
   - title: "Ensemble Learning Framework for Image Retrieval via Deep Hash Ranking"
-    authors: Li D, Dw Dai* (通讯), Chen J et al.
+    authors: Li D, <strong>Dw Dai*</strong>, Chen J et al.
     conference: Knowledge-Based Systems
-    year: 2023
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=7.2）
   
   - title: "Rethinking the Image Feature Biases Exhibited by Deep Convolutional Neural Network Models in Image Recognition"
     authors: Dw Dai, Li Y, Wang Y et al.
     conference: CAAI Transactions on Intelligence Technology
-    year: 2022
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=8.4）
   
   - title: "Multi-granularity Association Learning for On-the-fly Fine-grained Sketch-based Image Retrieval"
     authors: Dw Dai, Xiaoyu Tang, Yingge Liu et al.
     conference: Knowledge-Based Systems
-    year: 2022
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=7.2）
   
   - title: "Building Partially Understandable Convolutional Neural Networks by Differentiating Class-Related Neural Nodes"
     authors: Dw Dai, Chengfu Tang, Guoyin Wang, Shuyin Xia
     conference: Neurocomputing
-    year: 2021
+    code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院二区（IF=5.5）
   
   - title: "Multimodal Image-Text Representation Learning for Sketch-Less Facial Image Retrieval"
@@ -92,18 +91,22 @@ main:
     conference_short: ICME
     conference: 2024 IEEE International Conference on Multimedia and Expo (ICME)
     notes: Oral
-  
+    code: https://github.com/ddw2AIGROUP2CQUPT
+    
   - title: "Sketch Less Face Image Retrieval: A New Challenge"
     authors: Dai D, Li Y, Wang L et al.
     conference_short: ICASSP
     conference: 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-  
+    code: https://github.com/ddw2AIGROUP2CQUPT
+    
   - title: "Pa-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding"
     authors: Dw Dai, Zhang Y, Xu L et al.
     conference_short: BIBM
     conference: 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
-  
+    code: https://github.com/ddw2AIGROUP2CQUPT
+    
   - title: "GraphConvNet: A Dual Network Utilizing Local Features Coupled with Structural Information for Predicting Knee Osteoarthritis"
-    authors: Tang P, Dw Dai* (通讯), Zou K et al.
+    authors: Tang P, <strong>Dw Dai*</strong>, Zou K et al.
     conference_short: BIBM
     conference: 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+    code: https://github.com/ddw2AIGROUP2CQUPT
