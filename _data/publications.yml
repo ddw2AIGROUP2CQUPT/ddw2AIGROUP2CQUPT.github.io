@@ -20,3 +20,97 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+   
+  - title: HumanVLM: Foundation for Human-Scene Vision-Language Model
+    authors: Dawei Dai, Long Xu, Yutang Li et al.
+    journal: Journal of Information Fusion
+    year: 2024
+    impact_factor: 14.8
+    division: 中科院一区TOP
+    title: An Adaptive Multi-Granularity Graph Representation of Image via Granular-Ball Computing
+    authors: Dawei Dai, Fan Chen, Shuyin Xia et al.
+    journal: IEEE Transactions on Image Processing
+    year: 2025
+    impact_factor: 10.8
+    division: 中科院一区TOP
+  
+  - title: PathologyVLM: A Large Vision-Language Model for Pathology Image Understanding
+    authors: Dw Dai, Yuanhui Zhang, Qianlan Yang, Long Xu, Xiaojing Shen, Shuying Xia, Guoyin Wang
+    journal: Artificial Intelligence Review
+    year: 2025
+    impact_factor: 10.7
+    division: 中科院一区TOP
+    title: Vision-Language Joint Representation Learning for Sketch Less Facial Image Retrieval
+    authors: Dw Dai, S Fu, Y Liu, G Wang
+    journal: Journal of Information Fusion
+    year: 2024
+    impact_factor: 14.8
+    division: 中科院一区TOP
+  
+  - title: BTSC: Binary Tree Structure Convolution Layers for Building Interpretable Decision-Making Deep CNN
+    authors: Wang Y, Dw Dai* (通讯), Liu D et al.
+    journal: CAAI Transactions on Intelligence Technology
+    year: 2024
+    impact_factor: 8.4
+    division: 中科院一区TOP
+    
+  - title: Prior Semantic-Embedding Representation Learning for On-the-Fly FG-SBIR
+    authors: Y Liu, Dw Dai* (通讯), K Zou et al.
+    journal: Expert Systems with Applications
+    year: 2024
+    impact_factor: 7.5
+    division: 中科院一区TOP
+    
+  - title: LGRL: Local-Global Representation Learning for On-the-Fly FG-SBIR
+    authors: Dw Dai, Liu Y, Li Y et al.
+    journal: IEEE Transactions on Big Data
+    year: 2024
+    impact_factor: 7.5
+    division: 中科院二区
+    title: Ensemble Learning Framework for Image Retrieval via Deep Hash Ranking
+    authors: Li D, Dw Dai* (通讯), Chen J et al.
+    journal: Knowledge-Based Systems
+    year: 2023
+    impact_factor: 7.2
+    division: 中科院一区TOP
+  
+  - title: Rethinking the Image Feature Biases Exhibited by Deep Convolutional Neural Network Models in Image Recognition
+    authors: Dw Dai, Li Y, Wang Y et al.
+    journal: CAAI Transactions on Intelligence Technology
+    year: 2022
+    impact_factor: 8.4
+    division: 中科院一区TOP
+  
+  - title: Multi-granularity Association Learning for On-the-fly Fine-grained Sketch-based Image Retrieval
+    authors: Dw Dai, Xiaoyu Tang, Yingge Liu et al.
+    journal: Knowledge-Based Systems
+    year: 2022
+    impact_factor: 7.2
+    division: 中科院一区TOP
+    title: Building Partially Understandable Convolutional Neural Networks by Differentiating Class-Related Neural Nodes
+    authors: Dw Dai, Chengfu Tang, Guoyin Wang, Shuyin Xia
+    journal: Neurocomputing
+    year: 2021
+    impact_factor: 5.5
+    division: 中科院二区
+  
+  - title: Multimodal Image-Text Representation Learning for Sketch-Less Facial Image Retrieval
+    authors: Dai D, Liu Y, Fu S et al.
+    conference_short: ICME
+    conference: 2024 IEEE International Conference on Multimedia and Expo (ICME)
+    notes: Oral
+  
+  - title: Sketch Less Face Image Retrieval: A New Challenge
+    authors: Dai D, Li Y, Wang L et al.
+    conference_short: ICASSP
+    conference: 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+  
+  - title: Pa-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding
+    authors: Dw Dai, Zhang Y, Xu L et al.
+    conference_short: BIBM
+    conference: 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+  
+  - title: GraphConvNet: A Dual Network Utilizing Local Features Coupled with Structural Information for Predicting Knee Osteoarthritis
+    authors: Tang P, Dw Dai* (通讯), Zou K et al.
+    conference_short: BIBM
+    conference: 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
