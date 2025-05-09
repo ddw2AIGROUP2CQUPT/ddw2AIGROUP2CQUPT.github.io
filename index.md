@@ -13,7 +13,13 @@ A Research group specializing in Computer science at Chongqing University of Pos
 - **Large Vision-Language Model** 
 - **Computer Vision**
   
-{% include_relative _includes/services.md %}
+## OpenSource
+
+- **[FaceCaption15M](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)** 
+- **[Human_LLaVA](https://huggingface.co/OpenFace-CQUPT/Human_LLaVA)**
+- **[Pathology-LLaVA](https://huggingface.co/OpenFace-CQUPT/Pathology-LLaVA)**
+
+  
 ## Publications
 ​**Journals**​
 1. ​**Dawei Dai**, Long Xu, Yutang Li. et al. Humanvlm: Foundation for human-scene vision-language model. *Journal of Information Fusion*, 2025 (IF=14.8)  [pdf](https://arxiv.org/pdf/2411.03034) ~[code](https://github.com/ddw2AIGROUP2CQUPT)
