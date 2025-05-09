@@ -33,7 +33,7 @@ A Research group specializing in Computer science at Chongqing University of Pos
 11. ​**Dw Dai**, Chengfu Tang, GuoyinWang, and ShuyinXia. Building Partially Understandable Convolutional Neural Networks by Differentiating Class-Related Neural Nodes. *Neurocomputing*, 2021 (IF=5.5，中科院二区)  
 
 ​**会议论文**​
-1.  ​**Liu Y*​*, ​*​*Dw Dai**, Hou X, et al. From Sparse to Complete: Semantic Understanding Based on Stroke Evolution in On-the-fly Sketch-based Image Retrieval. *34th International Joint Conference on Artificial Intelligence *, 2025 (人工智能领域顶会)[code](https://github.com/ddw2AIGROUP2CQUPT)  
+1.  ​Liu Y, ​*​*Dw Dai**, Hou X, et al. From Sparse to Complete: Semantic Understanding Based on Stroke Evolution in On-the-fly Sketch-based Image Retrieval. *34th International Joint Conference on Artificial Intelligence *, 2025 (人工智能领域顶会)[code](https://github.com/ddw2AIGROUP2CQUPT)  
 2.  ​**Dai D ​**, Liu Y, Fu S, et al. Multimodal Image-Text Representation Learning for Sketch-Less Facial Image Retrieval. *2024 IEEE International Conference on Multimedia and Expo (ICME)*, 2024 (多媒体计算领域顶会, Oral) [code](https://github.com/ddw2AIGROUP2CQUPT) 
 3. ​**Dw Dai**, Zhang Y, Xu L, et al. Pa-llava: A large language-vision assistant for human pathology image understanding. *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024 (生物与医药信息学顶会)[code](https://github.com/ddw2AIGROUP2CQUPT)  
 4. Tang P, ​**Dw Dai** , Zou K, et al. GraphConvNet: A Dual Network Utilizing Local Features Coupled with Structural Information for Predicting Knee Osteoarthritis. *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024 (生物与医药信息学顶会)  [code](https://github.com/ddw2AIGROUP2CQUPT)
