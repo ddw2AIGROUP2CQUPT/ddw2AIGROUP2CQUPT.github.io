@@ -22,10 +22,10 @@ A Research group specializing in Computer science at Chongqing University of Pos
   
 ## Publications
 ​**Journals**​
-1. ​**Dawei Dai**, Long Xu, Yutang Li. et al. Humanvlm: Foundation for human-scene vision-language model. *Journal of Information Fusion*, 2025 (IF=14.8)  [pdf](https://arxiv.org/pdf/2411.03034) ~[code](https://github.com/ddw2AIGROUP2CQUPT)
+1. ​**Dawei Dai**, Long Xu, Yutang Li. et al. Humanvlm: Foundation for human-scene vision-language model. *Journal of Information Fusion*, 2025 (IF=14.8)  [pdf](https://arxiv.org/pdf/2411.03034) ~[code](https://github.com/ddw2AIGROUP2CQUPT/HumanVLM) ~ [checkpoint](https://huggingface.co/OpenFace-CQUPT/Human_LLaVA)
 2. ​**Dw Dai**, S Fu, Y Liu and G Wang. Vision-Language Joint Representation Learning for Sketch Less Facial Image Retrieval. *Journal of Information Fusion*, 2024 (IF=14.8)[code](https://github.com/ddw2AIGROUP2CQUPT)  
 3. ​**Dawei Dai**, Fan Chen, Shuyin Xia. et al. An Adaptive Multi-Granularity Graph Representation of Image via Granular-Ball Computing. *IEEE Transactions on Image Processing*, 2025 (IF=10.8)[code](https://github.com/ddw2AIGROUP2CQUPT) 
-4. ​**Dw Dai**, Yuanhui Zhang, Qianlan Yang, Long Xu, Xiaojing Shen, Shuying Xia, Guoyin Wang. PathologyVLM: A Large Vision-Language Model for Pathology Image Understanding. *Artificial Intelligence Review*, 2025 (IF=10.7)  [pdf](https://arxiv.org/pdf/2408.09530) ~ [code](https://github.com/ddw2AIGROUP2CQUPT)
+4. ​**Dw Dai**, Yuanhui Zhang, Qianlan Yang, Long Xu, Xiaojing Shen, Shuying Xia, Guoyin Wang. PathologyVLM: A Large Vision-Language Model for Pathology Image Understanding. *Artificial Intelligence Review*, 2025 (IF=10.7)  [pdf](https://arxiv.org/pdf/2408.09530) ~ [code](https://github.com/ddw2AIGROUP2CQUPT/PA-LLaVA) ~ [checkpoint](https://huggingface.co/OpenFace-CQUPT/Pathology-LLaVA)
 5. Wang Y, ​**Dw Dai**​, Liu D, et al. BTSC: Binary tree structure convolution layers for building interpretable decision‐making deep CNN. *CAAI Transactions on Intelligence Technology*, 2024 (IF=8.4) [code](https://github.com/ddw2AIGROUP2CQUPT)
 6. ​**Dw Dai**, Li Y, Wang Y, et al. Rethinking the image feature biases exhibited by deep convolutional neural network models in image recognition. *CAAI Transactions on Intelligence Technology*, 2022 (IF=8.4)  [code](https://github.com/ddw2AIGROUP2CQUPT)
 7. Y Liu, ​**Dw Dai**​, K Zou, et al. Prior semantic-embedding representation learning for on-the-fly FG-SBIR. *Expert Systems with Applications*, 2024 (IF=7.5) [code](https://github.com/ddw2AIGROUP2CQUPT) 
