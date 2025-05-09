@@ -1,0 +1,19 @@
+main:
+
+  - title: "Contact"
+    url: ./#contact 
+    right: true 
+
+  - title: "Services"
+    url: ./#services
+
+
+  - title: "Publications"
+    url: ./#publications
+
+  - title: "Awards"
+    url: ./#awards
+
+
+  - title: "Biography"
+    url: ./#about-me
