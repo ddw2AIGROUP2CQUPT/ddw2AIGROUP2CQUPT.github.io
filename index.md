@@ -15,10 +15,18 @@ layout: homepage
   
 ## News
 
-- **[Feb. 2025]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2025]** Our paper about ​large vision-language models for pathology image understanding​ is accepted to Artificial Intelligence Review (IF=10.7).
+- **[Jan. 2025]** Our paper about ​adaptive multi-granularity graph representation of images​ is accepted to IEEE Transactions on Image Processing (IF=10.8).​​
+- **[Sept. 2024]** Our paper about ​knee osteoarthritis prediction using dual networks​ is accepted to IEEE BIBM 2024 (Bioinformatics and Biomedicine顶会).
+- **[Sept. 2024]** Our paper about ​pathology image-language assistants​ is accepted to IEEE BIBM 2024 (Bioinformatics and Biomedicine顶会).
+- **[May 2024]** Our paper about ​local-global representation learning for fine-grained sketch-based image retrieval​ is accepted to IEEE Transactions on Big Data (IF=7.5).
+- **[Apr. 2024]** Our paper about ​prior semantic-embedding learning for fine-grained sketch-based image retrieval​ is accepted to Expert Systems with Applications (IF=7.5).
+- **[Mar. 2024]** Our paper about ​multimodal image-text representation learning​ is accepted to IEEE ICME 2024 (Oral, Multimedia Computing顶会).
+- **[Mar. 2024]** Our paper about ​interpretable CNNs with binary tree structures​ is accepted to CAAI Transactions on Intelligence Technology (IF=8.4).
+- **[Feb. 2024]** Our paper about ​vision-language joint learning for facial image retrieval​ is accepted to Journal of Information Fusion (IF=14.8).
+- **[Jan. 2024]** Our paper about ​human-scene vision-language foundation models​ is accepted to Journal of Information Fusion (IF=14.8).
+
+
 
 {% include_relative _includes/publications.md %}
 
