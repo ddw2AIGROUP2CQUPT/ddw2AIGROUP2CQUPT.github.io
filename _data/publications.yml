@@ -25,7 +25,8 @@ main:
     conference: Journal of Information Fusion
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=14.8）
-    pdf:
+    pdf: https://arxiv.org/pdf/2411.03034
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     
   - title: An Adaptive Multi-Granularity Graph Representation of Image via Granular-Ball Computing
     authors: Dawei Dai, Fan Chen, Shuyin Xia et al.
@@ -33,13 +34,15 @@ main:
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=10.8）
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
       
   - title: "PathologyVLM: A Large Vision-Language Model for Pathology Image Understanding"
     authors: Dw Dai, Yuanhui Zhang, Qianlan Yang, Long Xu, Xiaojing Shen, Shuying Xia, Guoyin Wang
     conference: Artificial Intelligence Review
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=10.7）
-    pdf:
+    pdf: https://arxiv.org/pdf/2408.09530
+    bibtex: https://bib.yliu.me/MICCAI23.txt
       
   - title: Vision-Language Joint Representation Learning for Sketch Less Facial Image Retrieval
     authors: Dw Dai, S Fu, Y Liu, G Wang
@@ -47,6 +50,7 @@ main:
     year: 2024
     notes: 中科院一区TOP（IF=14.8）
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     
   - title: "BTSC: Binary Tree Structure Convolution Layers for Building Interpretable Decision-Making Deep CNN"
     authors: Wang Y, <strong>Dw Dai*</strong>, Liu D et al.
@@ -54,6 +58,7 @@ main:
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=8.4）
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     
   - title: "Prior Semantic-Embedding Representation Learning for On-the-Fly FG-SBIR"
     authors: Y Liu, <strong>Dw Dai*</strong>, K Zou et al.
@@ -61,6 +66,7 @@ main:
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=7.5）
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     
   - title: "LGRL: Local-Global Representation Learning for On-the-Fly FG-SBIR"
     authors: Dw Dai, Liu Y, Li Y et al.
@@ -68,6 +74,7 @@ main:
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院二区（IF=7.5）
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
       
   - title: "Ensemble Learning Framework for Image Retrieval via Deep Hash Ranking"
     authors: Li D, <strong>Dw Dai*</strong>, Chen J et al.
@@ -75,6 +82,7 @@ main:
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=7.2）
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
       
   - title: "Rethinking the Image Feature Biases Exhibited by Deep Convolutional Neural Network Models in Image Recognition"
     authors: Dw Dai, Li Y, Wang Y et al.
@@ -82,6 +90,7 @@ main:
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=8.4）
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
       
   - title: "Multi-granularity Association Learning for On-the-fly Fine-grained Sketch-based Image Retrieval"
     authors: Dw Dai, Xiaoyu Tang, Yingge Liu et al.
@@ -89,6 +98,7 @@ main:
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院一区TOP（IF=7.2）
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
       
   - title: "Building Partially Understandable Convolutional Neural Networks by Differentiating Class-Related Neural Nodes"
     authors: Dw Dai, Chengfu Tang, Guoyin Wang, Shuyin Xia
@@ -96,6 +106,7 @@ main:
     code: https://github.com/ddw2AIGROUP2CQUPT
     notes: 中科院二区（IF=5.5）
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
       
   - title: "Multimodal Image-Text Representation Learning for Sketch-Less Facial Image Retrieval"
     authors: Dai D, Liu Y, Fu S et al.
@@ -104,6 +115,7 @@ main:
     notes: Oral
     code: https://github.com/ddw2AIGROUP2CQUPT
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     
   - title: "Sketch Less Face Image Retrieval: A New Challenge"
     authors: Dai D, Li Y, Wang L et al.
@@ -111,6 +123,7 @@ main:
     conference: 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
     code: https://github.com/ddw2AIGROUP2CQUPT
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     
   - title: "Pa-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding"
     authors: Dw Dai, Zhang Y, Xu L et al.
@@ -118,6 +131,7 @@ main:
     conference: 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
     code: https://github.com/ddw2AIGROUP2CQUPT
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     
   - title: "GraphConvNet: A Dual Network Utilizing Local Features Coupled with Structural Information for Predicting Knee Osteoarthritis"
     authors: Tang P, <strong>Dw Dai*</strong>, Zou K et al.
@@ -125,4 +139,5 @@ main:
     conference: 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
     code: https://github.com/ddw2AIGROUP2CQUPT
     pdf:
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     
