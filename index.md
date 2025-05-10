@@ -23,7 +23,7 @@ A Research group specializing in Computer science at Chongqing University of Pos
 - **[Pathology-LLaVA (vision-language model)](https://huggingface.co/OpenFace-CQUPT/Pathology-LLaVA)**
 - **[Face-MakeUp_SD1.5 (text-image model)](https://huggingface.co/OpenFace-CQUPT/Face-MakeUp_SD1.5)**
   
-## Publications
+## Part of Publications
 ​**Journals**​
 1. ​**Dawei Dai**, Long Xu, Yutang Li. et al. Humanvlm: Foundation for human-scene vision-language model. *Journal of Information Fusion*, 2025 (IF=14.8)  [pdf](https://arxiv.org/pdf/2411.03034) ~[code](https://github.com/ddw2AIGROUP2CQUPT/HumanVLM) ~ [checkpoint](https://huggingface.co/OpenFace-CQUPT/Human_LLaVA)
 2. ​**Dawei Dai**, Fan Chen, Shuyin Xia. et al. An Adaptive Multi-Granularity Graph Representation of Image via Granular-Ball Computing. *IEEE Transactions on Image Processing*, 2025 (IF=10.8, accepted) [code](https://github.com/ddw2AIGROUP2CQUPT/GRIG)
