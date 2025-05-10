@@ -15,9 +15,9 @@ A Research group specializing in Computer science at Chongqing University of Pos
   
 ## OpenSource
 
-- **[FaceCaption15M](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)** 
-- **[Human_LLaVA](https://huggingface.co/OpenFace-CQUPT/Human_LLaVA)**
-- **[Pathology-LLaVA](https://huggingface.co/OpenFace-CQUPT/Pathology-LLaVA)**
+- **[FaceCaption-15M (large-scale dataset)](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)** 
+- **[Human_LLaVA (vision-language model)](https://huggingface.co/OpenFace-CQUPT/Human_LLaVA)**
+- **[Pathology-LLaVA (vision-language model)](https://huggingface.co/OpenFace-CQUPT/Pathology-LLaVA)**
 
   
 ## Publications
