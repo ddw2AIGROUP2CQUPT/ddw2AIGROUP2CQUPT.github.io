@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-A Research group specializing in Computer science at Chongqing University of Posts and Telecommunications, Chongqing, China. Currently, we are focusing on the study and applications of vision (language)-to-language (vision). Some of the data and checkpoints are availabe at: https://huggingface.co/OpenFace-CQUPT.
+A Research group specializing in Computer science at Chongqing University of Posts and Telecommunications, Chongqing, China. Currently, we are focusing on the study and applications of vision (language)-to-language (vision). Some of the data and checkpoints are availabe at: [https://huggingface.co/OpenFace-CQUPT](https://huggingface.co/OpenFace-CQUPT).
 
 
 ## Research Interests
