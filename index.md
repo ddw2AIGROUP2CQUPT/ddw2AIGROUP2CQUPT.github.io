@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-A Research group at Chongqing University of Posts and Telecommunications, China. Currently, we are focusing on the applications of vision (language)-to-language (vision). Some of the data and checkpoints are availabe at: [https://huggingface.co/OpenFace-CQUPT](https://huggingface.co/OpenFace-CQUPT).
+A Research group at Chongqing University of Posts and Telecommunications, China. Currently, we are focusing on the applications of vision (language)-to-language (vision). Part of the data and checkpoints are availabe at: [https://huggingface.co/OpenFace-CQUPT](https://huggingface.co/OpenFace-CQUPT).
 
 
 ## Research Interests
