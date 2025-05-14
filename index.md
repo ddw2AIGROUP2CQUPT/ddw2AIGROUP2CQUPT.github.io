@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-A Research group at Chongqing University of Posts and Telecommunications, Chongqing, China. Currently, we are focusing on the study and applications of vision (language)-to-language (vision). Some of the data and checkpoints are availabe at: [https://huggingface.co/OpenFace-CQUPT](https://huggingface.co/OpenFace-CQUPT).
+A Research group at Chongqing University of Posts and Telecommunications, China. Currently, we are focusing on the applications of vision (language)-to-language (vision). Some of the data and checkpoints are availabe at: [https://huggingface.co/OpenFace-CQUPT](https://huggingface.co/OpenFace-CQUPT).
 
 
 ## Research Interests
@@ -37,7 +37,7 @@ A Research group at Chongqing University of Posts and Telecommunications, Chongq
 10. ​**Dw Dai**, Chengfu Tang, GuoyinWang, and ShuyinXia. Building Partially Understandable Convolutional Neural Networks by Differentiating Class-Related Neural Nodes. *Neurocomputing*, 2021 (IF=5.5)  
 
 ​**Conferences**​
-1.  ​Liu Y, ​**Dw Dai**, Hou X, et al. From Sparse to Complete: Semantic Understanding Based on Stroke Evolution in On-the-fly Sketch-based Image Retrieval. *34th International Joint Conference on Artificial Intelligence*, 2025 (CCF-A, accepted) [code]  
+1.  ​Liu Y, ​**Dw Dai+**, Hou X, et al. From Sparse to Complete: Semantic Understanding Based on Stroke Evolution in On-the-fly Sketch-based Image Retrieval. *34th International Joint Conference on Artificial Intelligence*, 2025 (CCF-A, accepted) [code]  
 2.  ​**Dai D ​**, Liu Y, Fu S, et al. Multimodal Image-Text Representation Learning for Sketch-Less Facial Image Retrieval. *2024 IEEE International Conference on Multimedia and Expo (ICME)*, 2024 (CCF-B, oral) 
 3. ​**Dw Dai**, Zhang Y, Xu L, et al. Pa-llava: A large language-vision assistant for human pathology image understanding. *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024 (CCF-B) [code](https://github.com/ddw2AIGROUP2CQUPT)  
 4. Tang P, ​**Dw Dai** , Zou K, et al. GraphConvNet: A Dual Network Utilizing Local Features Coupled with Structural Information for Predicting Knee Osteoarthritis. *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024 (CCF-B) [code](https://github.com/ddw2AIGROUP2CQUPT/GraphConvNet)
