@@ -23,7 +23,7 @@ A Research group at Chongqing University of Posts and Telecommunications, China.
 - **[Pathology-LLaVA (vision-language model)](https://huggingface.co/OpenFace-CQUPT/Pathology-LLaVA)**
 - **[Face-MakeUp_SD1.5 (text-image model)](https://huggingface.co/OpenFace-CQUPT/Face-MakeUp_SD1.5)**
   
-## Part of Publications (CCF/CAAI：中国计算机学会/中国人工智能学会-推荐期刊/会议分类)
+## Part of Publications
 ​**Journals**​
 1. ​**Dw Dai**, Long Xu, Yutang Li, et al. Humanvlm: Foundation for human-scene vision-language model. *Journal of Information Fusion*, 2025 (IF=15.5, CAAI-A/中科院一区) [code](https://github.com/ddw2AIGROUP2CQUPT/HumanVLM) ~ [checkpoint](https://huggingface.co/OpenFace-CQUPT/Human_LLaVA)
 2. ​**Dw Dai**, Yuanhui Zhang, Qianlan Yang, et al. PathologyVLM: A Large Vision-Language Model for Pathology Image Understanding. *Artificial Intelligence Review*, 2025 (IF=13.9, CAAI-B/中科院一区) [code](https://github.com/ddw2AIGROUP2CQUPT/PA-LLaVA) ~ [checkpoint](https://huggingface.co/OpenFace-CQUPT/Pathology-LLaVA)
