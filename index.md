@@ -43,10 +43,11 @@ A Research group at Chongqing University of Posts and Telecommunications, China.
 16. ​**Dw Dai**, Chengfu Tang, GuoyinWang, and ShuyinXia. Building Partially Understandable Convolutional Neural Networks by Differentiating Class-Related Neural Nodes. *Neurocomputing*, 2021 (IF=6.5)  
 
 ​**Conferences**​
-1. ​Liu Y, ​**Dw Dai**(通讯), Hou X, et al. From Sparse to Complete: Semantic Understanding Based on Stroke Evolution in On-the-fly Sketch-based Image Retrieval. *34th International Joint Conference on Artificial Intelligence*, 2025 (CCF-A/CAAI-A) [code]  
-2. **Dw Dai**, Liu Y, Fu S, et al. Multimodal Image-Text Representation Learning for Sketch-Less Facial Image Retrieval. *2024 IEEE International Conference on Multimedia and Expo (ICME)*, 2024 (CCF-B, oral) 
-3. ​**Dw Dai**, Zhang Y, Xu L, et al. Pa-llava: A large language-vision assistant for human pathology image understanding. *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024 (CCF-B) [code](https://github.com/ddw2AIGROUP2CQUPT)  
-4. Tang P, ​**Dw Dai**(通讯), Zou K, et al. GraphConvNet: A Dual Network Utilizing Local Features Coupled with Structural Information for Predicting Knee Osteoarthritis. *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024 (CCF-B) [code](https://github.com/ddw2AIGROUP2CQUPT/GraphConvNet)
-5.  ​**Dw Dai**, Li Y, Wang L, et al. Sketch less face image retrieval: A new challenge. *2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023 (CCF-B) [code](https://github.com/ddw2AIGROUP2CQUPT/SLFIR) 
+1. **Dw Dai**, Mingming Jia, Yinxiu Zhou, et al. Face-MakeUp: Multimodal Facial Prompts for Text-to-Image Generation. *28th European Conference on Artificial Intelligence (ECAI)*, 2025 (CCF-B) [code](https://github.com/ddw2AIGROUP2CQUPT/Face-MakeUp)
+2. ​Liu Y, ​**Dw Dai**(通讯), Hou X, et al. From Sparse to Complete: Semantic Understanding Based on Stroke Evolution in On-the-fly Sketch-based Image Retrieval. *34th International Joint Conference on Artificial Intelligence (IJCAI)*, 2025 (CCF-A/CAAI-A) [code]
+3. **Dw Dai**, Liu Y, Fu S, et al. Multimodal Image-Text Representation Learning for Sketch-Less Facial Image Retrieval. *2024 IEEE International Conference on Multimedia and Expo (ICME)*, 2024 (CCF-B, oral) 
+4. ​**Dw Dai**, Zhang Y, Xu L, et al. Pa-llava: A large language-vision assistant for human pathology image understanding. *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024 (CCF-B) [code](https://github.com/ddw2AIGROUP2CQUPT)  
+5. Tang P, ​**Dw Dai**(通讯), Zou K, et al. GraphConvNet: A Dual Network Utilizing Local Features Coupled with Structural Information for Predicting Knee Osteoarthritis. *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024 (CCF-B) [code](https://github.com/ddw2AIGROUP2CQUPT/GraphConvNet)
+6.  ​**Dw Dai**, Li Y, Wang L, et al. Sketch less face image retrieval: A new challenge. *2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023 (CCF-B) [code](https://github.com/ddw2AIGROUP2CQUPT/SLFIR) 
 
 
